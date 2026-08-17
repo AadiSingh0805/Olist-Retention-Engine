@@ -2,4 +2,4 @@
 
 Dataset : [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download]
 
-Dataset Schema : ![Dataset Schema](schema.png)
+Dataset Schema : ![Dataset Schema](images/schema.png)
